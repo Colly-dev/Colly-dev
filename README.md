@@ -64,4 +64,4 @@ I specialize in solving real-world problems using Bash and Python scripts.
 - 🧠 Master red teaming and ethical hacking  
 - 🤝 Open to internships, mentorship, and freelance cybersecurity gigs
 
-Colly-dev** 
+
