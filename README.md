@@ -3,7 +3,7 @@
 
 **# 👋 Hi, I'm Colly-dev** 
 
-I'm a self-taught cybersecurity enthusiast focused on offensive security, OSINT, and automation.  
+I'm a self-taught cybersecurity practitioner focused on Offensive Security, Bug Bounty Hunting, AI Security, and Automation.  
 I specialize in solving real-world problems using Bash and Python scripts.
 
 ---
@@ -11,8 +11,8 @@ I specialize in solving real-world problems using Bash and Python scripts.
 ## 🧠 What I Focus On
 
 - 🔐 Ethical hacking & vulnerability analysis  
-- 🕵️ OSINT and reconnaissance automation  
-- 🧪 Penetration testing labs on TryHackMe  
+- 🕵️ Bug Bounty Hunting and reconnaissance automation  
+- 🧪 Penetration testing labs on TryHackMe/HackTheBox  
 - 🛠️ Bash & Python tools for scanning and recon  
 - 💻 Active contributor of open-source cybersecurity tools
 
