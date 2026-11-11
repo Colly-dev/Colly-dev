@@ -9,8 +9,8 @@ I'm a self-taught cybersecurity practitioner focused on Offensive Security, Bug 
 I specialize in solving real-world problems using Bash and Python scripts.
 I help businesses secure their digital assets—from testing web applications for vulnerabilities to auditing AI integrations and writing NIST-aligned governance policies. I bridge the gap between offensive security testing and defensive risk management.
 
-🔭 **Currently building:** Open-source tools for Web App Recon, LLM Security, and AI Governance.
-💼 **Available for:** Freelance contracts, consulting, and full-time security roles.
+🔭 **Currently building:** Open-source tools for Web App Recon, LLM Security, and AI Governance.\
+💼 **Available for:** Freelance contracts, consulting, and full-time security roles.\
 📍 **Location:** Remote / Global
 
 ---
@@ -27,7 +27,7 @@ I help businesses secure their digital assets—from testing web applications fo
 
 ## 📂  Featured Projects
 
--[LLM Prompt Injection Lab]() - A documented security assessment testing open-source LLMs against the OWASP Top 10 for Large Language Models.
+- [LLM Prompt Injection Lab]() - A documented security assessment testing open-source LLMs against the OWASP Top 10 for Large Language Models.
 - [Recon Automation Tool](#) – Bash script for automated target reconnaissance. 
 - [Port Scanner (Python)](#) – Lightweight Python tool to scan ports.  
 - [SentinelSOC](https://github.com/Colly-dev/SentinelSOC) – Open-Source Security Operations Center Platform for Blue Team Training and Detection Engineering . 
