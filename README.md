@@ -22,8 +22,14 @@ I specialize in solving real-world problems using Bash and Python scripts.
 
 - [Recon Automation Tool](#) – Bash script for automated target reconnaissance  
 - [Port Scanner (Python)](#) – Lightweight Python tool to scan ports  
-- [OSINT Toolkit](#) – Scripts to gather information from open sources  
+- [SentinelSOC](https://github.com/Colly-dev/SentinelSOC) – Open-Source Security Operations Center Platform for Blue Team Training and Detection Engineering  
 - [Custom Nmap Wrapper](#) – Advanced scanner that saves results in multiple formats
+- [VulnHawk](https://github.com/Colly-dev/VulnHawk) - Elite Web Application Vulnerability Scanner with CVSS Scoring, PoC Generation, and Professional Reporting
+- [Aegisstrike](https://github.com/Colly-dev/aegisstrike) - Elite Reconnaissance & Automated Pentesting Framework | For authorized security testing and educational purposes only
+- [ThreatForge](https://github.com/Colly-dev/threatforge) - Cyber Threat Intelligence & IOC Correlation Platform | For educational and authorized security use only
+- [CloudSentinel](https://github.com/Colly-dev/CloudSentinel) - Cloud Security Monitoring & Misconfiguration Audit Dashboard with CIS Benchmark Compliance
+- [NIST-AI-Acceptable-Use-Policy](https://github.com/Colly-dev/NIST-AI-Acceptable-Use-Policy) - Practical NIST AI RMF aligned acceptable use policy package for organizations adopting generative AI
+- [SecureAudit](https://github.com/Colly-dev/secureaudit) - A Python-Powered security configuration auditing platform that evaluates web applications, servers, cloud environments, and infrastructure against security best practices
 
 > (Links will update when you push real projects)
 
